@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-11-24 at 8 15 57 PM" src="https://github.com/user-attachments/assets/919619c3-422c-4301-9f06-5dee3519da4f">## Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -31,9 +31,10 @@
 
 
 ## Screenshots
-
+<img width="1440" alt="Screenshot 2024-11-24 at 8 15 46 PM" src="https://github.com/user-attachments/assets/5b7d5583-2c63-4770-b928-f271559fb3a4">
+<img width="1440" alt="Screenshot 2024-11-24 at 8 15 32 PM" src="https://github.com/user-attachments/assets/9f981009-94e0-4a0b-8743-2f73dd5d8340">
 <img width="1440" alt="Screenshot 2024-11-24 at 8 15 57 PM" src="https://github.com/user-attachments/assets/40b5fd71-9835-4ac5-a4ee-7098305efe25">
-
+<img width="1440" alt="Screenshot 2024-11-24 at 8 16 27 PM" src="https://github.com/user-attachments/assets/bf1567bd-3570-4969-ad70-39cb02ea0e97">
 
 
    
