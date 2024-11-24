@@ -1,4 +1,4 @@
-## Technologies Used
+<img width="1440" alt="Screenshot 2024-11-24 at 8 15 57 PM" src="https://github.com/user-attachments/assets/919619c3-422c-4301-9f06-5dee3519da4f">## Technologies Used
 
 - HTML
 - CSS
@@ -27,4 +27,13 @@
 1. Download the code from repo
 2. Navigate to index.html file in root directory or index.html file in html folder.
 3. double click or open in any browser to launch the website
+  
+
+
+## Screenshots
+
+<img width="1440" alt="Screenshot 2024-11-24 at 8 15 57 PM" src="https://github.com/user-attachments/assets/40b5fd71-9835-4ac5-a4ee-7098305efe25">
+
+
+
    
