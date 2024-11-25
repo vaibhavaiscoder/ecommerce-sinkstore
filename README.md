@@ -1,7 +1,3 @@
-# Astore - Ecommerce website
-
-It is clone of Astore Ecommerce website with all basic functionalities of Ecommerce website.
-
 ## Technologies Used
 
 - HTML
@@ -32,33 +28,3 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 2. Navigate to index.html file in root directory or index.html file in html folder.
 3. double click or open in any browser to launch the website
    
-## Contributing
-
-If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
-## Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=100026991042689&mibextid=ZbWKwL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajid-bhatti-b2436b24a)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/SajidBhatti786)
-
-## Keywords:
-- Ecommerce website
-- HTML
-- CSS
-- JavaScript
-- Data-os animation library
-- Dummyjson fake API
-- Product categories
-- Product images
-- Cart functionality
-- Product details
-- Add to cart
-- Search functionality
-- Responsive design
-- Web development
-- User interface
-- User experience
-- Online shopping
-- Website design
-- Product catalog
-- Shopping cart
-
